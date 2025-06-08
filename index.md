@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Whiskers and Wanderlust: 🐾Exploring the PNW, One Paw Print at a Time🐾
 ---
